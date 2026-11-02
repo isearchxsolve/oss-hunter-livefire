@@ -1,0 +1,13 @@
+name: Live fixture native checks
+'on':
+  pull_request: {}
+  workflow_dispatch: {}
+permissions:
+  contents: read
+jobs:
+  native:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+    - uses: actions/checkout@v4
+    - run: python3 -m unittest discover -s live_cases -p 'test_*.py' -v
