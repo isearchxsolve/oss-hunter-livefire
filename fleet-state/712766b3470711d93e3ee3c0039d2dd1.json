@@ -1,0 +1,22 @@
+{
+  "task_id": "712766b3470711d93e3ee3c0039d2dd1",
+  "repo": "acme/http",
+  "issue_number": 7,
+  "status": "DISPATCHING",
+  "dispatch_id": "81f031f0863942338fdee366451afd6c",
+  "admission": {
+    "task_id": "712766b3470711d93e3ee3c0039d2dd1",
+    "source_revision": "44516416b6562627f333bc8441110bb48b8406c2d2c69c707870df89c64d14a1"
+  },
+  "dispatch_attempt": 1,
+  "sovereign_admission": true,
+  "competition": {
+    "blocking": false
+  },
+  "lanes": [
+    "normal"
+  ],
+  "dispatched_at": "2026-11-03T13:15:03.282888+00:00",
+  "attempt": 0,
+  "updated_at": "2026-11-03T13:15:03.282888+00:00"
+}
