@@ -2,7 +2,7 @@
   "task_id": "712766b3470711d93e3ee3c0039d2dd1",
   "repo": "acme/http",
   "issue_number": 7,
-  "status": "DISPATCHED",
+  "status": "REJECTED_PREPARATION",
   "dispatch_id": "e3c570bc5cb348de8d330cb2a2f6208b",
   "admission": {
     "task_id": "712766b3470711d93e3ee3c0039d2dd1",
@@ -18,5 +18,5 @@
   ],
   "dispatched_at": "2026-11-03T13:11:33.146085+00:00",
   "attempt": 0,
-  "updated_at": "2026-11-03T13:11:51.075695+00:00"
+  "updated_at": "2026-11-03T13:11:58.431828+00:00"
 }
