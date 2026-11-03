@@ -2,7 +2,7 @@
   "task_id": "c4ccbe12cb966b88845d970513184ad0",
   "repo": "mgillr/acfa-rs",
   "issue_number": 93,
-  "status": "DISPATCHED",
+  "status": "REJECTED_PREPARATION",
   "dispatch_id": "d3532fe833a342d3b91ac664bf4f750f",
   "admission": {
     "task_id": "c4ccbe12cb966b88845d970513184ad0",
@@ -18,5 +18,5 @@
   ],
   "dispatched_at": "2026-11-03T12:32:20.895563+00:00",
   "attempt": 0,
-  "updated_at": "2026-11-03T12:32:32.899963+00:00"
+  "updated_at": "2026-11-03T12:32:38.041233+00:00"
 }
