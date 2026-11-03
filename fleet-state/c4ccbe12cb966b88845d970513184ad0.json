@@ -1,0 +1,22 @@
+{
+  "task_id": "c4ccbe12cb966b88845d970513184ad0",
+  "repo": "mgillr/acfa-rs",
+  "issue_number": 93,
+  "status": "DISPATCHING",
+  "dispatch_id": "c416fd1158104d488b5d2a68025dd661",
+  "admission": {
+    "task_id": "c4ccbe12cb966b88845d970513184ad0",
+    "source_revision": "b72044605ca856fba557457a13a057eaae35822268a6ea711e6719d6ab413382"
+  },
+  "dispatch_attempt": 1,
+  "sovereign_admission": true,
+  "competition": {
+    "blocking": false
+  },
+  "lanes": [
+    "normal"
+  ],
+  "dispatched_at": "2026-11-03T17:22:46.178990+00:00",
+  "attempt": 0,
+  "updated_at": "2026-11-03T17:22:46.179010+00:00"
+}
