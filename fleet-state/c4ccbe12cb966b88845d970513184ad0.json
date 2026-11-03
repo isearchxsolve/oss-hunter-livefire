@@ -2,6 +2,6 @@
   "status": "CLAIMED",
   "count": 9,
   "fault_fixture": true,
-  "updated_at": "2026-11-03T16:37:26.787329+00:00",
-  "competing_write": "3952600e5c1a422bb1ff7f46c041c4a8"
+  "updated_at": "2026-11-03T16:37:33.238254+00:00",
+  "competing_write": "8c301b65900a40e088738d68981c6407"
 }
