@@ -8,7 +8,7 @@
     "task_id": "c4ccbe12cb966b88845d970513184ad0",
     "source_revision": "b72044605ca856fba557457a13a057eaae35822268a6ea711e6719d6ab413382"
   },
-  "dispatch_attempt": 1,
+  "dispatch_attempt": 3,
   "sovereign_admission": true,
   "competition": {
     "blocking": false
@@ -18,5 +18,5 @@
   ],
   "dispatched_at": "2026-11-03T12:03:01.010569+00:00",
   "attempt": 0,
-  "updated_at": "2026-11-03T12:03:19.008770+00:00"
+  "updated_at": "2026-11-03T12:03:43.073028+00:00"
 }
