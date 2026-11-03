@@ -2,7 +2,7 @@
   "task_id": "c4ccbe12cb966b88845d970513184ad0",
   "repo": "mgillr/acfa-rs",
   "issue_number": 93,
-  "status": "DISPATCHING",
+  "status": "CLAIMED",
   "dispatch_id": "bef12bf67ff54aa88eb81539b03fbbe6",
   "admission": {
     "task_id": "c4ccbe12cb966b88845d970513184ad0",
@@ -17,6 +17,13 @@
     "normal"
   ],
   "dispatched_at": "2026-11-03T13:22:46.950809+00:00",
-  "attempt": 0,
-  "updated_at": "2026-11-03T13:22:46.950809+00:00"
+  "attempt": 1,
+  "updated_at": "2026-11-03T13:23:07.136871+00:00",
+  "owner": "123:1",
+  "previous_owner": null,
+  "previous_status": "DISPATCHING",
+  "run_url": "https://example.invalid/run",
+  "harness_sha": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "claimed_at": "2026-11-03T13:23:07.136871+00:00",
+  "lease_expires_at": "2026-11-03T17:28:07.136871+00:00"
 }
