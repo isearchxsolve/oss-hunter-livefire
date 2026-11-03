@@ -2,7 +2,7 @@
   "task_id": "712766b3470711d93e3ee3c0039d2dd1",
   "repo": "acme/http",
   "issue_number": 7,
-  "status": "DISPATCHING",
+  "status": "CLAIMED",
   "dispatch_id": "408d68c9ad7649d2929e487a33bde477",
   "admission": {
     "task_id": "712766b3470711d93e3ee3c0039d2dd1",
@@ -17,6 +17,13 @@
     "normal"
   ],
   "dispatched_at": "2026-11-03T12:49:24.768660+00:00",
-  "attempt": 0,
-  "updated_at": "2026-11-03T12:49:24.768660+00:00"
+  "attempt": 1,
+  "updated_at": "2026-11-03T12:49:42.285263+00:00",
+  "owner": "123:1",
+  "previous_owner": null,
+  "previous_status": "DISPATCHING",
+  "run_url": "https://example.invalid/run",
+  "harness_sha": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "claimed_at": "2026-11-03T12:49:42.285263+00:00",
+  "lease_expires_at": "2026-11-03T16:54:42.285263+00:00"
 }
